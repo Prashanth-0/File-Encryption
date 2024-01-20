@@ -43,5 +43,6 @@ Follow the on-screen instructions to perform encryption, decryption, or exit.
 
 ## Developer
 
-_Prashanth_ @Prashanth-0
+- **Prashanth** - [@Prashanth-0](https://github.com/Prashanth-0)
+
 
