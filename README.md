@@ -1,4 +1,4 @@
-# Ransomeware
+# File Encryption
 
 
 Ransomeware is a simple Python script that allows you to encrypt and decrypt files using Fernet encryption and a passphrase.
@@ -27,11 +27,11 @@ pip install cryptography pyfiglet termcolor
 
 Clone the Repository:
 
-https://github.com/Prashanth-0/Ransomeware.git
+https://github.com/Prashanth-0/File-Encryption.git
 
 change the directory:
 ```bash
-cd Ransomeware
+cd File-Encryption
 ```
 
 Run the script:
