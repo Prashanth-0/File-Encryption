@@ -38,7 +38,7 @@ def decrypt_file(file_path, key, passphrase=None):
 
 if __name__ == "__main__":
     figlet = Figlet(font="slant")
-    print(colored(figlet.renderText("Ransomeware"), "green"))
+    print(colored(figlet.renderText("Encryption"), "green"))
 
     developer_name = "Prashanth"
     print(colored(f"Developer: {developer_name}".center(80), "red"))
