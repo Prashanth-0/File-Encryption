@@ -25,6 +25,8 @@ pip install cryptography pyfiglet termcolor
 
 ## Usage
 
+Clone the Repository:
+  
 Run the script:
   ```python ransomeware.py```
 
