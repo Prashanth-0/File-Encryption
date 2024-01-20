@@ -26,7 +26,11 @@ pip install cryptography pyfiglet termcolor
 ## Usage
 
 Clone the Repository:
-  
+https://github.com/Prashanth0/Ransomeware.git
+
+change the directory:
+```cd Ransomeware```
+
 Run the script:
   ```python ransomeware.py```
 
