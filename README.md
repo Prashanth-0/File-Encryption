@@ -36,7 +36,7 @@ cd File-Encryption
 
 Run the script:
 ```bash
-python3 ransomeware.py
+python3 Encryption.py
 ```
 
 Follow the on-screen instructions to perform encryption, decryption, or exit.
